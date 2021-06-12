@@ -32,7 +32,7 @@ void loop() {
 
     HTTPClient http;
 
-    http.begin("https://api.coronatracker.com/v3/stats/worldometer/country?countryCode=IN");
+    http.begin("PASTE THE URL FOR PARSING");
     int httpCode = http.GET();                                        
 
     if (httpCode > 0) { 
