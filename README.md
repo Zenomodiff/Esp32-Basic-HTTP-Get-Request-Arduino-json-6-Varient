@@ -14,3 +14,7 @@ Quote Of The Day
 Random Job creator 
 
 ![Screenshot (728)](https://user-images.githubusercontent.com/25906435/122326004-35605500-cf49-11eb-9e2b-94bf24355448.png)
+
+Random Advice Generator
+
+![Screenshot (767)](https://user-images.githubusercontent.com/25906435/122505894-df5be200-d01a-11eb-8467-766f26964f13.png)
