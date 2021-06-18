@@ -1,7 +1,7 @@
 /*feel free to contact
  * sreeramaj53@gmail.com
  * www.youtube.com/ZenoModiff
- * last updated - time 08:45 AM - date 17 june 2021
+ * last updated - time 09:48 AM - date 18 june 2021
  * Github Link :-- https://github.com/Zenomodiff/Esp32-Basic-HTTP-Get-Request-Arduino-json-6-Varient
  */
 
@@ -9,8 +9,8 @@
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Zeno";
-const char* password = "9061116368";
+const char* ssid = "PASTE THE WIFI SSID";
+const char* password = "PASTE THE WIFI PASSWORD";
 
 void setup() {
 
